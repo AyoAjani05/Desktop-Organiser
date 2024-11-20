@@ -37,8 +37,7 @@ We're working hard to bring you the best possible desktop organization experienc
 We invite you to be part of our growing community. Share your feedback, suggestions, and ideas to help shape the future of Desktop Organizer.
 
 **License:**
-
-[Specify your chosen license, e.g., MIT, GPL]
+MIT
 
 **Elevate Your Digital Life Today:**
 
